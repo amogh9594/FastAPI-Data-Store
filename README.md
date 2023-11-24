@@ -1,6 +1,6 @@
 # RATLS-Assignment-AmoghK
 
-# Flask API with Authentication and Database Operations
+## Flask API with Authentication and Database Operations
 
 This project provides a simple Flask API with authentication and database operations. It includes functionality to retrieve, store, edit, and delete data with each piece of data having a unique identity.
 
