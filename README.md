@@ -49,7 +49,7 @@ This project provides a simple Flask API with authentication and database operat
 
 ## Database
 
-- The script uses SQLite as the database and creates a file named `data.db` in the same directory.
+- The script uses SQLite as the database and creates a file named `mydatabase`.
 
 ## Note
 
