@@ -10,7 +10,7 @@ This project provides a simple Flask API with authentication and database operat
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [Flask-RESTful](https://flask-restful.readthedocs.io/en/latest/)
 - [Flask-JWT](https://pythonhosted.org/Flask-JWT/)
-- [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/3.x/)
+- [Flask-SQLAlchemy](https://pypi.org/project/Flask-SQLAlchemy/)
 
 ## Getting Started
 
