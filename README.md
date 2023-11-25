@@ -15,7 +15,7 @@ This project provides a simple Flask API with authentication and database operat
 ## Getting Started
 
 1. **Download the Script:**
-   - Download the provided script (`app.py`) and save it to a directory on your computer.
+   - Download the provided script folder and save it to your computer.
 
 2. **Install Dependencies:**
    - Open a terminal or command prompt.
