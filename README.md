@@ -25,7 +25,7 @@ A FastAPI app for storing, updating, deleting, and retrieving data.
 
 Here are some examples of how to use the REST client:
 
-### Send a Welcome Message
+### Example
 
 Welcome message : `Invoke-RestMethod -Method Post -Uri "http://127.0.0.1:8000/welcome" -Body '{"name": "Amogh"}' -ContentType "application/json"`
 
