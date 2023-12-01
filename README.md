@@ -35,5 +35,5 @@ Post : `Invoke-RestMethod -Method Post -Uri "http://127.0.0.1:8000/store-data/Am
 
 Get : `Invoke-RestMethod -Method Get -Uri "http://127.0.0.1:8000/store-data/AmoghK"`
 
-`Invoke-RestMethod -Method Put -Uri "http://127.0.0.1:8000/store-data/1?updated_item=John%20Doe" -ContentType "application/json"`
+Put : `Invoke-RestMethod -Method Put -Uri "http://127.0.0.1:8000/store-data/1?updated_item=John%20Doe" -ContentType "application/json"`
 
