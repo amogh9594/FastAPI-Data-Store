@@ -1,6 +1,4 @@
-# RATLS-Assignment-AmoghK
-
-## FastAPI Store Data App
+# FastAPI Store Data App
 A FastAPI app for storing, updating, deleting, and retrieving data.
 
 ## Endpoints
